@@ -34,5 +34,4 @@ The data given to us was originally collected by the National Highway Traffic Sa
 ## Status
 Project status: **Finished**
 
-## Contact
-Feel free to contact me, send a mail to **pranshu1921@gmail.com**
+
