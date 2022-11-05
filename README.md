@@ -7,7 +7,7 @@ We analyze data collected by the _**National Highway Traffic Safety Administrati
 * [General info](#general-info)
 * [Setup](#setup)
 * [Status](#status)
-* [Contact](#contact)
+
 
 ## General info
 
